@@ -17,6 +17,7 @@ public class Main {
         cumple.incrementarDia(); //incremento en
         cumple.mostrar();
 
+        cumple.fechas();
 
         cumple.iguales(cumple_abuela);
 
