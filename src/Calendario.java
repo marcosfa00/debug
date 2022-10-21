@@ -79,6 +79,9 @@ public class Calendario {
     public void mostrar(){
         System.out.println(dia + "/"+mes+"/"+anho);
     }
+    public void fechas(){
+        System.out.println("Esta función no hace nada");
+    }
 
     public boolean iguales(Calendario otra_fecha){
         boolean fecha_dia = false;
